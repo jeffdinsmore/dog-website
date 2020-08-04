@@ -1,0 +1,12 @@
+body {
+ margin-left:40px;
+}
+
+h1 {
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ol {
+  list-style-position: inside;
+  text-align: right;
+}
+
