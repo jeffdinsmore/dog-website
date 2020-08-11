@@ -9,4 +9,17 @@ ol {
   list-style-position: inside;
   text-align: left;
 }
+.dark-background {
+  margin: 20px;
+}
 
+.black-background {
+  background-color: black;
+  color: antiquewhite;
+}
+.light-background {
+  display: hide;
+}
+.white-background {
+  background-color: white;
+}
