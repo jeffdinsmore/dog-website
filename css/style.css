@@ -9,7 +9,7 @@ ol {
   list-style-position: inside;
   text-align: left;
 }
-.dark-background {
+.dark-background, .light-background {
   margin: 20px;
 }
 
@@ -17,8 +17,8 @@ ol {
   background-color: black;
   color: antiquewhite;
 }
-.light-background {
-  display: hide;
+.light-hide {
+  display: none;
 }
 .white-background {
   background-color: white;
